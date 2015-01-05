@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B7770C14-5696-4D3B-9C7B-D33BEA8EC4AA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Fluid2DParticles</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>14774F67F01D39C322D6C1918A47C8E5BFA44BA7</key>
+		<string>github.com:controlgroup/CinderFx.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>samples/Fluid2DParticles/xcode/Fluid2DParticles.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>14774F67F01D39C322D6C1918A47C8E5BFA44BA7</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:controlgroup/CinderFx.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>14774F67F01D39C322D6C1918A47C8E5BFA44BA7</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>14774F67F01D39C322D6C1918A47C8E5BFA44BA7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CinderFx</string>
+		</dict>
+	</array>
+</dict>
+</plist>
